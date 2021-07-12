@@ -8,6 +8,8 @@ I wrote this to monitor when my technology choice upgrade was complete.
 
 Edit nbninfo.py and put your address in there. Make sure that the address is formatted exactly as it is on the NBNCo website.
 
+Optionally, add email details and set emailAlerts to True.
+
 ## Greetz
 
 Sup @swarley7
