@@ -101,4 +101,4 @@ while True:
             pprint.pprint(locations[_id])
             if emailAlerts:
                 sendEmails(destAddr, pprint.pformat(details))
-    time.sleep(60)
+    time.sleep(1800)
